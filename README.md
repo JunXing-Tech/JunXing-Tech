@@ -1,6 +1,6 @@
-<div align="center">System.out.println("Hello, I am Zeng Jun Xing.");</div>
+<div align="center"><h1>System.out.println("Hello, I am Zeng Jun Xing.")</h1>;</div>
 
-<div align="center"> <img src="https://metrics.lecoq.io/JunXing-Tech?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/JunXing-Tech?template=classic&config.timezone=Asia%2FHuNan"> </div>
 
 <!--
 **JunXing-Tech/JunXing-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
