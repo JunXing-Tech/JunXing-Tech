@@ -1,6 +1,4 @@
-<div align="center"><h1>System.out.println("Hello, I am Zeng Jun Xing.");</h1></div>
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=JunXing-Tech&theme=xcode" /> </div>
+<div align="center"><h2>System.out.println("Hello, I am Zeng Jun Xing.");</h2></div>
 
 <!--
 **JunXing-Tech/JunXing-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
