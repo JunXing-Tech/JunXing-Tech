@@ -1,11 +1,15 @@
-<div align="center"><h2>System.out.println("Hello, I am Jun Xing.");</h2></div>
-
 <div align="center">
-  <img src="https://gd-hbimg.huaban.com/a021e6ef0f487652a662f8d52d0ab30e5f8c1be53693-KmBAvV_fw1200webp" width="150" height="150>
+  <h2>System.out.println("Hello, I am Jun Xing.");</h2>
 </div>
 
-- 🌱 I’m currently learning Java backend technology
-                                                                                                                            
+<div align="center">
+  <img src="https://gd-hbimg.huaban.com/a021e6ef0f487652a662f8d52d0ab30e5f8c1be53693-KmBAvV_fw1200webp" width="150" height="150">
+</div>
+
+<div align="center">
+  <p>- 🌱 I’m currently learning Java backend technology</p>
+</div>
+                                                                                                                 
 <!--
 **JunXing-Tech/JunXing-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
