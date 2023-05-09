@@ -1,5 +1,9 @@
 <div align="center"><h2>System.out.println("Hello, I am Jun Xing.");</h2></div>
 
+<p align="center">
+  <img src="https://gd-hbimg.huaban.com/a021e6ef0f487652a662f8d52d0ab30e5f8c1be53693-KmBAvV_fw1200webp" width="50" height="50>
+</p>                                                                                                              
+
 <!--
 **JunXing-Tech/JunXing-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
