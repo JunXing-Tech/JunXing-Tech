@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://gd-hbimg.huaban.com/a021e6ef0f487652a662f8d52d0ab30e5f8c1be53693-KmBAvV_fw1200webp" width="150" height="150">
+  <img src="https://gd-hbimg.huaban.com/a021e6ef0f487652a662f8d52d0ab30e5f8c1be53693-KmBAvV_fw1200webp" width="200" height="200">
 </div>
 
 <div align="center">
