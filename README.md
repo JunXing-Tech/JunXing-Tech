@@ -18,10 +18,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JunXing-Tech" /> 
 </div>
 
-<div align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=JunXing-Tech&theme=xcode" /> 
-</div>
-
 <!--
 **JunXing-Tech/JunXing-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
