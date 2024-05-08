@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>System.out.println("Hello, I am JunXing.");:wave:</h2>
+  <h2>System.out.println("Hello, I am JunXing.");</h2>
 </div>
 
 <div align="center">
