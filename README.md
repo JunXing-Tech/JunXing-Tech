@@ -23,13 +23,6 @@
 
 <br/>
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JunXing&show_icons=true&theme=blueberry&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JunXing&theme=blueberry&hide_border=true" />
-</div>
-
-<br/>
 
 <div align="center">
   <h3>🤝 Connect With Me</h3>
