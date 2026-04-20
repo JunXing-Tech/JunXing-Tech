@@ -10,5 +10,18 @@
 <div align="center">
   <p>- 🌱 Keep learning, keep coding</p>
 </div>
-
 <br/>
+
+<!-- 强制隐藏贡献日历 & 活动区域 -->
+<style>
+  .js-profile-editable-area,
+  .js-contribution-graph,
+  .profile-timeline-year-list,
+  .contribution-activity,
+  .js-yearly-contributions {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    overflow: hidden !important;
+  }
+</style>
