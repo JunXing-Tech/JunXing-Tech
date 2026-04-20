@@ -12,22 +12,3 @@
 </div>
 
 <br/>
-
-<!-- 强制隐藏贡献日历和活动区域（已修复渲染问题） -->
-<style>
-  /* 隐藏贡献日历主体 */
-  .js-yearly-contributions,
-  .contribution-graph,
-  .js-contribution-graph,
-  .profile-timeline-year-list,
-  .contribution-activity,
-  .contributions-listing,
-  .js-profile-editable-area {
-    display: none !important;
-    visibility: hidden !important;
-    height: 0 !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    overflow: hidden !important;
-  }
-</style>
